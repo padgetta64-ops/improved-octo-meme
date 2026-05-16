@@ -1,11 +1,11 @@
 Model Information:
-* title:	Portal  2 Asset Collection
-* source:	https://sketchfab.com/3d-models/portal-2-asset-collection-6921fbdb5fd84c55943e4bab9fa15cd0
-* author:	skylajade69 (https://sketchfab.com/skylajade69)
+* title:	Portal Gun
+* source:	https://sketchfab.com/3d-models/portal-gun-ee51be678cdc40d993ce8a8b63cf49e1
+* author:	Pieter Ferreira (https://sketchfab.com/Badboy17Aiden)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Portal  2 Asset Collection" (https://sketchfab.com/3d-models/portal-2-asset-collection-6921fbdb5fd84c55943e4bab9fa15cd0) by skylajade69 (https://sketchfab.com/skylajade69) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Portal Gun" (https://sketchfab.com/3d-models/portal-gun-ee51be678cdc40d993ce8a8b63cf49e1) by Pieter Ferreira (https://sketchfab.com/Badboy17Aiden) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
